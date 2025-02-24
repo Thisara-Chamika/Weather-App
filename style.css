@@ -41,6 +41,7 @@ button[type="submit"]:active {
 .card {
     background: linear-gradient(180deg, rgba(81, 81, 255, 0.806) , rgba(255, 201, 100, 0.879));
     padding: 50px;
+    border-radius: 10px;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.432);
     min-width: 300px;
     display: flex;
